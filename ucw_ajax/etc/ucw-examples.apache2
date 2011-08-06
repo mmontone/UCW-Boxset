@@ -1,0 +1,71 @@
+#
+# apache2 site config for the UCW examples to be used with mod_lisp
+#
+# WARNING: this example contains absolute path, search for CHANGE-ME
+#
+# The LoadModule directives should work with relative path like modules/mod_lisp2.so,
+# but here it doesn't.
+#
+# Sets up 3 applications at these url-prefixes:
+#   /
+#   /shared-counter
+#   /l10n
+
+NameVirtualHost *
+<VirtualHost *>
+        ServerAdmin webmaster@localhost
+
+        LoadModule dir_module         /usr/lib/apache2/modules/mod_dir.so
+        LoadModule alias_module       /usr/lib/apache2/modules/mod_alias.so
+        LoadModule vhost_alias_module /usr/lib/apache2/modules/mod_vhost_alias.so
+
+        #LoadModule deflate_module    /usr/lib/apache2/modules/mod_deflate.so
+        #DeflateCompressionLevel 6
+
+        LoadModule lisp_module        /usr/lib/apache2/modules/mod_lisp2.so
+        LispServer 127.0.0.1 3001 ucw
+
+        <Directory "/">
+                Options FollowSymLinks
+                AllowOverride None
+        </Directory>
+
+        #
+        # redirect requests matching the specified regex to mod_lisp
+        #
+        <LocationMatch "^/(|l10n|shared-counter)">
+                SetHandler lisp-handler
+                RedirectMatch ^/l10n$ /l10n/
+                RedirectMatch ^/shared-counter$ /shared-counter/
+        </LocationMatch>
+
+        #
+        # map the www-root's
+        #
+        AliasMatch ^/(|shared-counter/|l10n/)(ucw|dojo|static)/(.*) /CHANGE-ME/ucw/examples/wwwroot/$2/$3
+
+        <DirectoryMatch "^/CHANGE-ME/workspace/ucw/">
+                AllowOverride None
+                Options Indexes FollowSymLinks
+                Order allow,deny
+                allow from all
+        </DirectoryMatch>
+
+        #
+        # disable mod_lisp for the www-root's
+        #
+        <LocationMatch "^/(|shared-counter/|l10n/)(ucw|dojo|static)/">
+                SetHandler none
+        </LocationMatch>
+
+        #ErrorLog /var/log/apache2/error.log
+
+        # Possible values include: debug, info, notice, warn, error, crit,
+        # alert, emerg.
+        #LogLevel warn
+
+        #CustomLog /var/log/apache2/access.log combined
+
+        ServerSignature On
+
+</VirtualHost>

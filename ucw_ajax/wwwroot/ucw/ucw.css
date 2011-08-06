@@ -1,0 +1,126 @@
+.missing-resource
+{
+  color: #ff0000;
+}
+
+#ucw-progress-container
+{
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  z-index: 1000;
+}
+
+.ucw-progress-indicator
+{
+  cursor: pointer;
+  background-color: #ff4444;
+  color: #ffffff;
+  padding-right: 5px;
+  margin-bottom: 1px;
+}
+
+/*
+   tabbed pane
+*/
+
+.ucw-tabbed-pane
+{
+  font: 12px verdana, arial, sans-serif;
+  position:relative;
+  width: 97%;
+}
+
+.ucw-tabbed-pane-options
+{
+  font: bold 11px verdana, arial, sans-serif;
+  list-style-type: none;
+  padding-bottom: 14px ;
+  padding-left: 20px;
+  position:relative;
+  width:100%;
+}
+
+.ucw-tabbed-pane-not-selected,
+.ucw-tabbed-pane-selected
+{
+  float: left;
+  height: 21px;
+  background-color: #ccc;
+  margin: 2px 2px 0 2px;
+  border: 1px solid #006;
+}
+
+.ucw-tabbed-pane-options a
+{
+  float: left;
+  display: block;
+  color: #666;
+  text-decoration: none;
+  padding: 4px;
+}
+
+.ucw-tabbed-pane-options a:hover
+{
+  background: #fff;
+}
+
+
+.ucw-tabbed-pane-selected a
+{
+  border-bottom: 1px solid #fff;
+  background-color: #fff;
+  text-decoration: none;
+}
+
+.ucw-tabbed-pane-body
+{
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #006;
+}
+
+
+/*
+   checkbox
+*/
+
+.ucw-checkbox
+{
+  cursor: pointer;
+}
+
+/*
+   list container
+*/
+
+.ucw-list-container.horizontal > div
+{
+  display: block;
+  float: left;
+}
+
+.ucw-list-container.vertical > div
+{
+  display: block;
+}
+
+
+/*
+   collapsible pane
+*/
+
+.ucw-collapsible .switch a:link,
+.ucw-collapsible .switch a:visited,
+.ucw-collapsible .switch a:hover,
+.ucw-collapsible .switch a:active
+{
+  text-decoration: none;
+  color: #000;
+}
+
+.collapsible > .switch > a > img
+{
+  padding-right: 5px;
+}
+

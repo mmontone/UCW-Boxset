@@ -1,0 +1,266 @@
+(IT.BESE.ARNESI:+INFO+ 3521141213 IT.BESE.UCW::UCW "Started standard-server #<STANDARD-SERVER IT.BESE.UCW:MULTITHREAD-HTTPD-BACKEND 4 {1002AED6B1}> with backend #<MULTITHREAD-HTTPD-BACKEND :host 0.0.0.0 :port 8080 {1004878001}>")
+(IT.BESE.ARNESI:+INFO+ 3521141262 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1005A51591}> ")
+(IT.BESE.ARNESI:+INFO+ 3521141264 IT.BESE.UCW::UCW "#<IT.BESE.UCW::I18N-PARENSCRIPT-DISPATCHER dynamic/js/per-locale.js {1003129891}> is compiling for key (\"es_AR\")")
+(IT.BESE.ARNESI:+INFO+ 3521141271 IT.BESE.UCW::UCW "Executing NIL, body is (IT.BESE.UCW-USER::INCREMENT/CC (IT.BESE.YACLML:LOOKUP-TAL-VARIABLE 'IT.BESE.UCW:COMPONENT IT.BESE.YACLML:-TAL-ENVIRONMENT-))")
+(IT.BESE.ARNESI:+INFO+ 3521141274 IT.BESE.UCW::UCW "Executing NIL, body is (IT.BESE.UCW-USER::INCREMENT/CC (IT.BESE.YACLML:LOOKUP-TAL-VARIABLE 'IT.BESE.UCW:COMPONENT IT.BESE.YACLML:-TAL-ENVIRONMENT-))")
+(IT.BESE.ARNESI:+INFO+ 3521141275 IT.BESE.UCW::UCW "Executing NIL, body is (IT.BESE.UCW-USER::DECREMENT/CC (IT.BESE.YACLML:LOOKUP-TAL-VARIABLE 'IT.BESE.UCW:COMPONENT IT.BESE.YACLML:-TAL-ENVIRONMENT-))")
+(IT.BESE.ARNESI:+INFO+ 3521141280 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1005A51591}>/#<DOJO-SPLIT-CONTAINER {1005A51571}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {10056FC671}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {10056FC651}>/#<OPTION-DIALOG
+
+                                                                                                                   {100494E041}> ")
+(IT.BESE.ARNESI:+INFO+ 3521141282 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1005A51591}>/#<DOJO-SPLIT-CONTAINER {1005A51571}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {10056FC671}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {10056FC651}>/#<OPTION-DIALOG
+
+                                                                                                                   {100523C231}> ")
+(IT.BESE.ARNESI:+INFO+ 3521141284 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<OPTION-DIALOG {100494E041}> /#<EXAMPLE-WINDOW {1005A51591}>/#<DOJO-SPLIT-CONTAINER {1005A51571}>/#<DOJO-CONTENT-PANE {10056FC671}>/#<SWITCHING-CONTAINER {10056FC651}>/#<OPTION-DIALOG {100523C231}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521141284 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<COUNTER {10056FC4F1}> /#<EXAMPLE-WINDOW {1005A51591}>/#<DOJO-SPLIT-CONTAINER {1005A51571}>/#<DOJO-CONTENT-PANE {10056FC671}>/#<SWITCHING-CONTAINER {10056FC651}>/#<OPTION-DIALOG {100494E041}> :ONCE-ONLY)")
+(IT.BESE.ARNESI:+INFO+ 3521141292 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1005A51591}>/#<DOJO-SPLIT-CONTAINER {1005A51571}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {10056FC671}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {10056FC651}>/#<DOJO-TAB-EXAMPLE
+
+                                                                                                                   {10056FC551}>/#<DOJO-TAB
+
+                                                                                                                                   {10056FC411}>/#<READ-A-NUMBER
+
+                                                                                                                                                   {1004296ED1}> ")
+(IT.BESE.ARNESI:+INFO+ 3521141301 IT.BESE.UCW::UCW "Sending 404 Not Found for request \"/error.ucw\"")
+(IT.BESE.ARNESI:+INFO+ 3521142257 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1005A51591}>/#<DOJO-SPLIT-CONTAINER {1005A51571}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {10056FC671}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {10056FC651}>/#<READ-A-NUMBER
+
+                                                                                                                   {100C129891}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142258 IT.BESE.UCW::UCW "Executing NIL, body is (IT.BESE.UCW:SWITCH-COMPONENT IT.BESE.UCW-USER::MAIN-CONTAINER IT.BESE.ARNESI:NAME)")
+(IT.BESE.ARNESI:+INFO+ 3521142261 IT.BESE.UCW::UCW "Sending 404 Not Found for request \"/error-render.ucw\"")
+(IT.BESE.ARNESI:+INFO+ 3521142283 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1003E30391}>/#<DOJO-SPLIT-CONTAINER {100BC4AE71}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {100BC4B161}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {100BC4B2C1}>/#<DOJO-TAB-EXAMPLE
+
+                                                                                                                   {100BC4AF41}>/#<DOJO-TAB
+
+                                                                                                                                   {10046FA921}>/#<DOJO-TAB-EXAMPLE
+
+                                                                                                                                                   {100597E011}>/#<DOJO-TAB
+
+                                                                                                                                                                   {100597E1E1}>/#<DOJO-TAB-EXAMPLE
+
+                                                                                                                                                                                   {1004DE7481}>/#<DOJO-TAB
+
+                                                                                                                                                                                                   {1004DE5551}>/#<READ-A-NUMBER
+
+                                                                                                                                                                                                                   {1004BF6671}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142292 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1003E30391}>/#<DOJO-SPLIT-CONTAINER {100BC4AE71}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {100BC4B161}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {100BC4B2C1}>/#<DOJO-TAB-EXAMPLE
+
+                                                                                                                   {100BC4AF41}>/#<DOJO-TAB
+
+                                                                                                                                   {10046FA921}>/#<DOJO-TAB-EXAMPLE
+
+                                                                                                                                                   {100597E011}>/#<DOJO-TAB
+
+                                                                                                                                                                   {100597E101}>/#<READ-A-NUMBER
+
+                                                                                                                                                                                   {1004D4CE31}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142311 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1003E30391}>/#<DOJO-SPLIT-CONTAINER {100BC4AE71}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {100BC4B161}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {100BC4B2C1}>/#<DOJO-TAB-EXAMPLE
+
+                                                                                                                   {100BC4AF41}>/#<DOJO-TAB
+
+                                                                                                                                   {1004674871}>/#<DOJO-TAB-EXAMPLE
+
+                                                                                                                                                   {10046DD321}>/#<DOJO-TAB
+
+                                                                                                                                                                   {10046DB3F1}>/#<READ-A-NUMBER
+
+                                                                                                                                                                                   {1004C97471}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142324 IT.BESE.UCW::UCW "Executing NIL, body is (IT.BESE.UCW-USER::INCREMENT/CC (IT.BESE.YACLML:LOOKUP-TAL-VARIABLE 'IT.BESE.UCW:COMPONENT IT.BESE.YACLML:-TAL-ENVIRONMENT-))")
+(IT.BESE.ARNESI:+INFO+ 3521142325 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<SUM {100BC4B371}> /#<EXAMPLE-WINDOW {1003E30391}>/#<DOJO-SPLIT-CONTAINER {100BC4AE71}>/#<DOJO-CONTENT-PANE {100BC4B161}>/#<SWITCHING-CONTAINER {100BC4B2C1}>/#<READ-A-NUMBER {100BC4B241}> NIL)")
+(IT.BESE.ARNESI:+INFO+ 3521142332 IT.BESE.UCW::UCW "Sending 500 Internal Server Error for request \"/\"")
+(IT.BESE.ARNESI:+INFO+ 3521142897 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {10051EFA91}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142901 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {10051EFA91}>/#<DOJO-SPLIT-CONTAINER {1004E321C1}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {100525CE91}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004DE3CC1}>/#<INFO-MESSAGE
+
+                                                                                                                   {1005490611}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142903 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {10058DF1D1}> /#<EXAMPLE-WINDOW {10051EFA91}>/#<DOJO-SPLIT-CONTAINER {100553B081}>/#<DOJO-CONTENT-PANE {100553B571}>/#<SWITCHING-CONTAINER {100553B631}>/#<INFO-MESSAGE {1005490611}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142903 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {10051EFA91}>/#<DOJO-SPLIT-CONTAINER {100553B081}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {100553B571}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {100553B631}>/#<INFO-MESSAGE
+
+                                                                                                                   {10045A5331}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142904 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {10058DF1D1}> /#<EXAMPLE-WINDOW {10051EFA91}>/#<DOJO-SPLIT-CONTAINER {100553B081}>/#<DOJO-CONTENT-PANE {100553B571}>/#<SWITCHING-CONTAINER {100553B631}>/#<INFO-MESSAGE {10045A5331}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142904 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {10051EFA91}>/#<DOJO-SPLIT-CONTAINER {100553B081}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {100553B571}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {100553B631}>/#<INFO-MESSAGE
+
+                                                                                                                   {100467E691}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142905 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {10058DF1D1}> /#<EXAMPLE-WINDOW {10051EFA91}>/#<DOJO-SPLIT-CONTAINER {100553B081}>/#<DOJO-CONTENT-PANE {100553B571}>/#<SWITCHING-CONTAINER {100553B631}>/#<INFO-MESSAGE {100467E691}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142905 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {10051EFA91}>/#<DOJO-SPLIT-CONTAINER {100553B081}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {100553B571}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {100553B631}>/#<INFO-MESSAGE
+
+                                                                                                                   {1004923611}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142906 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {10058DF1D1}> /#<EXAMPLE-WINDOW {10051EFA91}>/#<DOJO-SPLIT-CONTAINER {100553B081}>/#<DOJO-CONTENT-PANE {100553B571}>/#<SWITCHING-CONTAINER {100553B631}>/#<INFO-MESSAGE {1004923611}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142906 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {10051EFA91}>/#<DOJO-SPLIT-CONTAINER {100553B081}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {100553B571}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {100553B631}>/#<INFO-MESSAGE
+
+                                                                                                                   {10049AA721}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142917 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142925 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1004A93271}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004A902B1}>/#<INFO-MESSAGE
+
+                                                                                                                   {1004D06321}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142927 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {1004A69431}> /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE {1004A93271}>/#<SWITCHING-CONTAINER {1004A902B1}>/#<INFO-MESSAGE {1004D06321}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142927 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1004A93271}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004A902B1}>/#<INFO-MESSAGE
+
+                                                                                                                   {1004D955C1}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142928 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {1004A69431}> /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE {1004A93271}>/#<SWITCHING-CONTAINER {1004A902B1}>/#<INFO-MESSAGE {1004D955C1}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142928 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1004A93271}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004A902B1}>/#<INFO-MESSAGE
+
+                                                                                                                   {1004DFBFE1}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142928 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {1004A69431}> /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE {1004A93271}>/#<SWITCHING-CONTAINER {1004A902B1}>/#<INFO-MESSAGE {1004DFBFE1}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142928 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1004A93271}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004A902B1}>/#<INFO-MESSAGE
+
+                                                                                                                   {1004EB88B1}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142929 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {1004A69431}> /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE {1004A93271}>/#<SWITCHING-CONTAINER {1004A902B1}>/#<INFO-MESSAGE {1004EB88B1}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142929 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1004A93271}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004A902B1}>/#<INFO-MESSAGE
+
+                                                                                                                   {1004F5F691}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142931 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {1004A69431}> /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE {1004A93271}>/#<SWITCHING-CONTAINER {1004A902B1}>/#<INFO-MESSAGE {1004F5F691}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142931 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1004A93271}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004A902B1}>/#<INFO-MESSAGE
+
+                                                                                                                   {10050A81A1}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142932 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {1004A69431}> /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE {1004A93271}>/#<SWITCHING-CONTAINER {1004A902B1}>/#<INFO-MESSAGE {10050A81A1}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142932 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1004A93271}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004A902B1}>/#<INFO-MESSAGE
+
+                                                                                                                   {1005161351}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142933 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {1004A69431}> /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE {1004A93271}>/#<SWITCHING-CONTAINER {1004A902B1}>/#<INFO-MESSAGE {1005161351}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142933 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1004A93271}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004A902B1}>/#<INFO-MESSAGE
+
+                                                                                                                   {1005230321}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142933 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {1004A69431}> /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE {1004A93271}>/#<SWITCHING-CONTAINER {1004A902B1}>/#<INFO-MESSAGE {1005230321}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142933 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1004A93271}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004A902B1}>/#<INFO-MESSAGE
+
+                                                                                                                   {10052B6D21}> ")
+(IT.BESE.ARNESI:+INFO+ 3521142934 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<TRANSACTION-EXAMPLE {1004A69431}> /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE {1004A93271}>/#<SWITCHING-CONTAINER {1004A902B1}>/#<INFO-MESSAGE {10052B6D21}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521142934 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1004A34EB1}>/#<DOJO-SPLIT-CONTAINER {1004A91921}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1004A93271}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1004A902B1}>/#<INFO-MESSAGE
+
+                                                                                                                   {1005350531}> ")
+(IT.BESE.ARNESI:+INFO+ 3521156882 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1002F43491}> ")
+(IT.BESE.ARNESI:+INFO+ 3521156888 IT.BESE.UCW::UCW "#<IT.BESE.UCW::I18N-PARENSCRIPT-DISPATCHER dynamic/js/per-locale.js {10030767F1}> is compiling for key (\"es_AR\")")
+(IT.BESE.ARNESI:+INFO+ 3521156989 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1003B24121}>/#<DOJO-SPLIT-CONTAINER {1003B25911}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1003B25991}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1003B25561}>/#<OPTION-DIALOG
+
+                                                                                                                   {1002CD9011}> ")
+(IT.BESE.ARNESI:+INFO+ 3521156991 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1003B24121}>/#<DOJO-SPLIT-CONTAINER {1003B25911}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1003B25991}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1003B25561}>/#<OPTION-DIALOG
+
+                                                                                                                   {1002D80231}> ")
+(IT.BESE.ARNESI:+INFO+ 3521156992 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<OPTION-DIALOG {1002CD9011}> /#<EXAMPLE-WINDOW {1003B24121}>/#<DOJO-SPLIT-CONTAINER {1003B25911}>/#<DOJO-CONTENT-PANE {1003B25991}>/#<SWITCHING-CONTAINER {1003B25561}>/#<OPTION-DIALOG {1002D80231}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521156992 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<COUNTER {1003B24251}> /#<EXAMPLE-WINDOW {1003B24121}>/#<DOJO-SPLIT-CONTAINER {1003B25911}>/#<DOJO-CONTENT-PANE {1003B25991}>/#<SWITCHING-CONTAINER {1003B25561}>/#<OPTION-DIALOG {1002CD9011}> :ONCE-ONLY)")
+(IT.BESE.ARNESI:+INFO+ 3521156999 IT.BESE.UCW::UCW "Executing NIL, body is (IT.BESE.UCW-USER::DECREMENT/CC (IT.BESE.YACLML:LOOKUP-TAL-VARIABLE 'IT.BESE.UCW:COMPONENT IT.BESE.YACLML:-TAL-ENVIRONMENT-))")
+(IT.BESE.ARNESI:+INFO+ 3521156999 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1003B24121}>/#<DOJO-SPLIT-CONTAINER {1003B25911}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1003B25991}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1003B25561}>/#<OPTION-DIALOG
+
+                                                                                                                   {1002FE4471}> ")
+(IT.BESE.ARNESI:+INFO+ 3521157002 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1003B24121}>/#<DOJO-SPLIT-CONTAINER {1003B25911}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1003B25991}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1003B25561}>/#<OPTION-DIALOG
+
+                                                                                                                   {10032002A1}> ")
+(IT.BESE.ARNESI:+INFO+ 3521157003 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<OPTION-DIALOG {1002FE4471}> /#<EXAMPLE-WINDOW {1003B24121}>/#<DOJO-SPLIT-CONTAINER {1003B25911}>/#<DOJO-CONTENT-PANE {1003B25991}>/#<SWITCHING-CONTAINER {1003B25561}>/#<OPTION-DIALOG {10032002A1}> T)")
+(IT.BESE.ARNESI:+INFO+ 3521157003 IT.BESE.UCW::UCW "(ANSWER-COMPONENT* /#<COUNTER {1003B24251}> /#<EXAMPLE-WINDOW {1003B24121}>/#<DOJO-SPLIT-CONTAINER {1003B25911}>/#<DOJO-CONTENT-PANE {1003B25991}>/#<SWITCHING-CONTAINER {1003B25561}>/#<OPTION-DIALOG {1002FE4471}> :ONCE-ONLY)")
+(IT.BESE.ARNESI:+INFO+ 3521161268 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1003EAAC31}> ")
+(IT.BESE.ARNESI:+INFO+ 3521161275 IT.BESE.UCW::UCW "Executing NIL, body is (IT.BESE.UCW-USER::INCREMENT/CC (IT.BESE.YACLML:LOOKUP-TAL-VARIABLE 'IT.BESE.UCW:COMPONENT IT.BESE.YACLML:-TAL-ENVIRONMENT-))")
+(IT.BESE.ARNESI:+INFO+ 3521161276 IT.BESE.UCW::UCW "Executing NIL, body is (IT.BESE.UCW-USER::INCREMENT/CC (IT.BESE.YACLML:LOOKUP-TAL-VARIABLE 'IT.BESE.UCW:COMPONENT IT.BESE.YACLML:-TAL-ENVIRONMENT-))")
+(IT.BESE.ARNESI:+INFO+ 3521189310 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {10042D5B11}> ")
+(IT.BESE.ARNESI:+INFO+ 3521298112 IT.BESE.UCW::UCW "Started standard-server #<STANDARD-SERVER IT.BESE.UCW:MULTITHREAD-HTTPD-BACKEND 4 {1003DEDA01}> with backend #<MULTITHREAD-HTTPD-BACKEND :host 0.0.0.0 :port 8080 {100397B6B1}>")
+(IT.BESE.ARNESI:+INFO+ 3521298213 IT.BESE.UCW::UCW "Started standard-server #<STANDARD-SERVER IT.BESE.UCW:MULTITHREAD-HTTPD-BACKEND 4 {1003728841}> with backend #<MULTITHREAD-HTTPD-BACKEND :host 0.0.0.0 :port 8080 {10061B2991}>")
+(IT.BESE.ARNESI:+INFO+ 3521298246 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1006613441}> ")
+(IT.BESE.ARNESI:+INFO+ 3521298249 IT.BESE.UCW::UCW "#<IT.BESE.UCW::I18N-PARENSCRIPT-DISPATCHER dynamic/js/per-locale.js {100511C971}> is compiling for key (\"es_AR\")")
+(IT.BESE.ARNESI:+INFO+ 3521298256 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1006613441}>/#<DOJO-SPLIT-CONTAINER {1006BB4481}>/#<DOJO-CONTENT-PANE
+
+                                                                                   {1006BB4B91}>/#<SWITCHING-CONTAINER
+
+                                                                                                   {1006BB4561}>/#<INFO-MESSAGE
+
+                                                                                                                   {10064815D1}> ")
+(IT.BESE.ARNESI:+INFO+ 3521326976 IT.BESE.UCW::UCW "CALL'ing to /#<EXAMPLE-WINDOW {1003757C71}> ")
